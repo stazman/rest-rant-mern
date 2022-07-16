@@ -1,0 +1,11 @@
+{
+  "name": "rest-rant-mern",
+  "version": "1.0.0",
+  "description": "Practice app for TDX curriculum",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Christopher DiStasio",
+  "license": "ISC"
+}
