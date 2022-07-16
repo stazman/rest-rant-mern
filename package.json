@@ -7,5 +7,8 @@
     "test": "test"
   },
   "author": "Christopher DiStasio",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  }
 }
